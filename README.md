@@ -1,40 +1,49 @@
-# Hello, I'm [Michael Poon Yong Lin] 👋
+# Hi there, I'm Michael Poon 👋
 
-I'm a [Software Engineer] with a passion for [learning all kinds of programming languages]. I enjoy [playing games].
+I'm a **Full Stack Developer** experienced in building end-to-end custom software solutions, cross-platform mobile apps, and scalable web architectures. I enjoy solving complex engineering challenges across the entire lifecycle—from database schema design and third-party integrations to server provisioning and cloud deployments.
 
-## Skills
+---
 
->**Prgramming Language**: HTML, CSS, JavaScript, PHP, SQL, C++, Java, Python
->**Framework**: Laravel, jQuery, Vue.js, node.js, axios, Bootstrap, Lazy Loading, boto3
->**Cloud Technologies**: AWS
->**Other Tools**: AWS CDK, Postman, Notion, Microsoft Office
+## 🛠 Skills & Tech Stack
 
-## Experience
+* **Languages:** PHP, Dart, JavaScript, Python, Java, C++, SQL, HTML5, CSS3
+* **Frameworks & Libraries:** Laravel, Livewire, Flutter, Vue.js, Node.js, jQuery, Bootstrap
+* **DevOps & Infrastructure:** Linux Server Administration, Plesk, DNS Management, SSL Provisioning, AWS (CDK, Serverless), CI/CD & Deployments
+* **Tools & Databases:** MySQL/PostgreSQL, Postman, Git, macOS / Bash, REST APIs, WebSockets
 
-* **[Junior Software Engineer]** at [Puretech Global SDN. BHD.] (May 2023 - Present)
-    * **Responsibilities**:
-      * Establish an Application Programming Interface (API) integration to facilitate data exchange between company's system and affiliate network’s platform.
-      * Facilitating system integration to connect the company’s platform with gateway’s API.
-      * Producing detailed reports and data analytics to aid in payment discrepancy identification and resolution for both gateway and marketing teams.
-      * Managing and enhancing the company’s content portal to ensure optimal performance and user experience.
-    * **Achievements**:
-      * Participated in company's content portal migration from server to severless project.
-      * Successfully intergrate gateway's system into company's backend system.
-      * Create API for marketing team to connect with the affiliate's sales.
-* **[Internship - Software Engineer]** at [Puretech Global SDN. BHD.] (Jan 2023 - Apr 2023)
-    * **Responsibilities**:
-      * Responsible for maintenance company’s internal landing page builder “Atlas” by providing support to Marketing team needs and bug fixing.
-      * Involved in code optimization projects, developing standard functions and classes, code clean-up, and deployment.
-      * Providing reports/data requested by marketing from day-to-day operations.
-    * **Achievements**:
-      * Participated in company's internal landing page builder's code optimization project.
-      * Tidy up migrated code from server to AWS (serverless).
+---
 
-## Education
+## 💼 Work Experience
 
-* **[Honor Bachelor of Computer Science (Software Engineering)]** from [City University Malaysia] (May 2020 - Jul 2023)
-    * **CGPA**: 3.69/4.00
-* **[Foundation of Information Technologies]** from [City University Malaysia] (May 2019 - Apr 2020)
-    * **CGPA**: 3.77/4.00
+### **Full Stack Developer** | BestWeb Technologies International Sdn Bhd
+*May 2024 – Present*
+* Architect and deliver custom client solutions across cross-platform mobile apps (Flutter), responsive web applications, and backend admin portals.
+* Engineer RESTful APIs and integrate third-party payment gateways, hardware peripherals, and external data feeds.
+* Manage development and production environments, handling server deployments, DNS record mapping, and SSL certificate provisioning.
+* Maintain system availability, database query efficiency, and infrastructure health across diverse client platforms.
 
-Thank you for taking the time to learn more about me. I am always open to connecting with like-minded individuals, so feel free to reach out!
+### **Junior Software Engineer** | Netmedias Leashares / Puretech Global Sdn Bhd
+*May 2023 – May 2024*
+* Developed and maintained secure API integrations connecting core internal platforms with affiliate networks and third-party payment gateways.
+* Produced transaction analytics and automated reports to detect and reconcile payment gateway discrepancies for finance and marketing teams.
+* Maintained internal content portals and contributed to serverless migration initiatives on AWS.
+
+### **Software Engineer Intern** | Netmedias Leashares / Puretech Global Sdn Bhd
+*Jan 2023 – Apr 2023*
+* Maintained and optimized the company’s internal landing page builder ("Atlas"), implementing bug fixes and performance enhancements.
+* Participated in codebase refactoring, standardizing reusable class libraries and functions for deployment stability.
+
+---
+
+## 🎓 Education
+
+* **Bachelor of Computer Science (Hons) in Software Engineering**<br>
+  *City University Malaysia* (May 2020 – Jul 2023) — **CGPA: 3.69 / 4.00**
+* **Foundation in Information Technology**<br>
+  *City University Malaysia* (May 2019 – Apr 2020) — **CGPA: 3.77 / 4.00**
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in discussing new technologies, system architectures, or interesting projects. Feel free to connect or reach out!
